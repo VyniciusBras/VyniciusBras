@@ -3,7 +3,7 @@ Olá, me chamo Vynicius Brasil!
 Sobre mim:
 - 📃 Graduado em Ciência da Computação!
 - 💰 Atualmente trabalhando com Front-end!
-- ⏱️ Melhorando as minhas habilidades em TypeScript, React, Angular!
+- ⏱️ Melhorando as minhas habilidades em TypeScript, React, Node.JS!
 - 📖 Sempre estudando uma tecnologia/ferramenta diferente!
 - 📈 Hard skills e Soft skills sempre alinhadas com o meu trabalho!
 - 🖥️ Estágio pela TecnoPUC-RS!
