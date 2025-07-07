@@ -1,4 +1,5 @@
-Olá, me chamo Vynicius Brasil!
+# Vynicius Brasil
+**`Desenvolvedor Front-end`**
 
 Sobre mim:
 - 📃 Graduando em Ciência da Computação!
@@ -12,7 +13,7 @@ Sobre mim:
   <a href="https://www.instagram.com/_sanvyni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
   ____________________________________________
-Principais ferramentas: 
+🎲 Principais ferramentas: 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -35,7 +36,7 @@ Principais ferramentas:
         
 
  ###
-Estatísticas:
+🎲 Estatísticas:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 
