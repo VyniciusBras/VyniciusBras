@@ -1,5 +1,5 @@
 # Vynicius Brasil
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Full-Stack`**
 
 Sobre mim:
 - 📃 Formado em Ciência da Computação!
