@@ -2,9 +2,9 @@
 **`Desenvolvedor Front-end`**
 
 Sobre mim:
-- 📃 Graduando em Ciência da Computação!
-- 💰 Atualmente trabalhando com Front-end!
-- ⏱️ Melhorando as minhas habilidades em TypeScript, React, Node.JS!
+- 📃 Formado em Ciência da Computação!
+- 💰 Atualmente trabalhando como dev Full-Stack!
+- ⏱️ Sempre melhorando as minhas stacks!
 - 📖 Sempre estudando uma tecnologia/ferramenta diferente!
 - 📈 Hard skills e Soft skills sempre alinhadas com o meu trabalho!
 - 🖥️ Estágio pela TecnoPUC-RS!
